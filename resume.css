@@ -11,7 +11,7 @@ line-height: 24px;
 clear: both;
 }
 #page-wrap {
-width: 800px;
+width: 850px;
 margin: 40px auto 60px;
 }
 #pic {
@@ -79,7 +79,7 @@ font-weight: bold;
 font-size: 22px;
 text-align: right;
 padding: 0 26px 0 0;
-width: 150px;
+width: 200px;
 float: left;
 height: 100px;
 border-right: 1px solid #999;
