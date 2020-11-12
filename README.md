@@ -7,7 +7,7 @@ Static web page with basic resume
 
 ### Requirements
 
-### Completed Features
+### To Be Completed Features
 
 * Website designed using Bootstrap starter theme
 * Static S3 Hosted Website
