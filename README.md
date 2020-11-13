@@ -3,7 +3,7 @@ Static web page with basic resume
 
 ### Completion:
 
-![50%](https://progress-bar.dev/20)
+![50%](https://progress-bar.dev/50)
 
 ### Requirements
 
