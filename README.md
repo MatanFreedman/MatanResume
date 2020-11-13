@@ -3,7 +3,7 @@ Static web page with basic resume
 
 ### Completion:
 
-![50%](https://progress-bar.dev/20)
+![50%](https://progress-bar.dev/50)
 
 ### Requirements
 
@@ -12,6 +12,7 @@ Static web page with basic resume
 * Website designed using Bootstrap starter theme
 * Static S3 Hosted Website
 * Cloudfront Distribution and ACM Cert for SSL
+* Continuous integration with CodePipeline and GitHub
 
 ### License
 
