@@ -12,7 +12,7 @@ clear: both;
 }
 #page-wrap {
 width: 850px;
-margin: 40px auto 60px;
+margin: 40px auto 10px;
 }
 #pic {
 float: right;
@@ -71,7 +71,7 @@ float: left;
 #objective p {
 font-family: Georgia, Serif;
 font-style: italic;
-color: #666;
+color: black;
 }
 dt {
 font-style: italic;
@@ -100,9 +100,9 @@ footer {
 
 i {
     margin: 0px 20px 0px 20px;
-    color:black
+    color:rgb(0, 51, 128);
 }
 
 i:hover {
-    color: grey;
+    color: rgb(0, 71, 179);
 }
