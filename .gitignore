@@ -1,4 +1,5 @@
 .git/
 .DS_Store
 .vscode
-inv-batch-ali.json
+aws_cli/inv-batch-ali.json
+aws_cli/*
